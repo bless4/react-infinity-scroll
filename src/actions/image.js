@@ -1,5 +1,5 @@
 import axios from 'axios';
-const CLIENT_ID = 'Hu_cYTDuUrtRZXNflhK6WzXgP9yZqQvREBooq12SiQA';
+const CLIENT_ID = 'dE30n6DCz7vQP0wYMPEM9YMlUb_ORGIUAI54hgmV2uo';
 
 export const GET_IMAGE = '[IMAGE APP] GET IMAGE';
 export const SET_PAGE_NUMBER = '[IMAGE APP] SET PAGE NUMBER';
