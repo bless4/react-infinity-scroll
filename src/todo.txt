@@ -1,2 +1,3 @@
 ##Todo
 test the application
+add a logo
