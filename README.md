@@ -1,7 +1,7 @@
-### Doro’s Frontend Challenge “imageGrid” with React & Unsplash Api
+###  Frontend Challenge “imageGrid” with React & Unsplash Api
 
 ## Introduction
-This  project is aimed at implementing Doro’s frontend challenge six requirements.
+This  project is aimed at implementing a frontend challenge with six requirements.
 The result of the frontend challenge can be viewed at https://unsplash-reactjs.netlify.app/
 
 ## The Challenge
@@ -12,7 +12,7 @@ To use unsplash Api to fetch(a GET request) photos, and get a set of images. The
 ## Technical Requirement
 React
 Tests
-Linter (Doro like Prettier)
+Linter (Prettier)
 May be CSSinJS, but not a requirement (JSS, styled-component)
 
 ## NPM Packages used and their descriptions
